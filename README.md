@@ -1,1 +1,2 @@
 # AntsvsBees
+Requires Greenfoot software.
